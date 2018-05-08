@@ -35,11 +35,15 @@
     <Compile Include="Chapter 7\Exercise 2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 8\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter 5\" />
     <Folder Include="Chapter 6\" />
     <Folder Include="Chapter 7\" />
+    <Folder Include="Chapter 8\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
