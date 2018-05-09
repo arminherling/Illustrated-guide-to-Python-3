@@ -56,6 +56,9 @@
     <Compile Include="Chapter 9\Exercise 3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 9\Exercise 4.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter 5\" />
