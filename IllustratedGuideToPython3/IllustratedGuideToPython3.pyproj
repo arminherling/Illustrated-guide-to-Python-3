@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Chapter 11\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
     <Compile Include="Chapter 5\Exercise 1.py" />
     <Compile Include="Chapter 6\Exercise 1.py">
@@ -66,6 +69,7 @@
     <Folder Include="Chapter 7\" />
     <Folder Include="Chapter 8\" />
     <Folder Include="Chapter 9\" />
+    <Folder Include="Chapter 11\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
