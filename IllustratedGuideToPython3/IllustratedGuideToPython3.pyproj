@@ -48,6 +48,9 @@
     <Compile Include="Chapter 14\Exercise 2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 14\Exercise 3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
     <Compile Include="Chapter 5\Exercise 1.py" />
     <Compile Include="Chapter 6\Exercise 1.py">
