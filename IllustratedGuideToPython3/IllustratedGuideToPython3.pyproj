@@ -75,6 +75,9 @@
     <Compile Include="Chapter 16\Exercise 3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 17\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
     <Compile Include="Chapter 5\Exercise 1.py" />
     <Compile Include="Chapter 6\Exercise 1.py">
@@ -125,6 +128,7 @@
     <Folder Include="Chapter 14\" />
     <Folder Include="Chapter 15\" />
     <Folder Include="Chapter 16\" />
+    <Folder Include="Chapter 17\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
