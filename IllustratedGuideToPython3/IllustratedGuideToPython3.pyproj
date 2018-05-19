@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eddaec90-06a0-4c1d-ae19-c1f1ad9edf71</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Chapter 17\Exercise 3.py</StartupFile>
+    <StartupFile>Chapter 19\Exercise 1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -96,6 +96,9 @@
     <Compile Include="Chapter 18\Exercise 3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 19\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
     <Compile Include="Chapter 5\Exercise 1.py" />
     <Compile Include="Chapter 6\Exercise 1.py">
@@ -148,6 +151,7 @@
     <Folder Include="Chapter 16\" />
     <Folder Include="Chapter 17\" />
     <Folder Include="Chapter 18\" />
+    <Folder Include="Chapter 19\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
