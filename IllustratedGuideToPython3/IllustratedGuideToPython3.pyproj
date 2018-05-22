@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eddaec90-06a0-4c1d-ae19-c1f1ad9edf71</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Chapter 19\Exercise 1.py</StartupFile>
+    <StartupFile>Chapter 24\Exercise 2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -118,6 +118,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chapter 24\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chapter 24\Exercise 2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
