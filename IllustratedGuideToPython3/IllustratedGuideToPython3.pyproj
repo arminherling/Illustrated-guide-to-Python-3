@@ -123,6 +123,9 @@
     <Compile Include="Chapter 24\Exercise 2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chapter 26\Exercise 1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chapter 5\Exercise 2.py" />
     <Compile Include="Chapter 5\Exercise 1.py" />
     <Compile Include="Chapter 6\Exercise 1.py">
@@ -180,6 +183,7 @@
     <Folder Include="Chapter 21\" />
     <Folder Include="Chapter 22\" />
     <Folder Include="Chapter 24\" />
+    <Folder Include="Chapter 26\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
