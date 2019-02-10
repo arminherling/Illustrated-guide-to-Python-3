@@ -1,0 +1,25 @@
+from collections import Counter, defaultdict
+
+paragraph = """This paragraph is going to contain anagrams.  There is an arc
+            through which you can drive a car quickly.  That ant has a tan face.
+            I have tons of snot fo you. And then ouch said the chou man.  I hit
+            the ram in his arm pit"""
+
+sorted_words = list(set(paragraph.split()))
+# Splitting the words in the paragraph into a list and elimating duplicates.
+
+finding_anagrams = defaultdict(list)
+# Below, we will use this empty defaultdict to create a tool to find our anagrams.
+
+anagrams = []
+# The list to which we will append our anagrams once we have located them.
+
+for word in sorted_words:
+    word_separated[''.join(sorted(word))].append(word)
+        
+
+for anagram in word_separated:
+    if len(word_separated[anagram]) > 1:
+           anagrams.append(word_separated[anagram])
+
+print(anagrams)           
