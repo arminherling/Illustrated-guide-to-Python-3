@@ -15,11 +15,11 @@ anagrams = []
 # The list to which we will append our anagrams once we have located them.
 
 for word in sorted_words:
-    word_separated[''.join(sorted(word))].append(word)
+    finding_anagrams[''.join(sorted(word))].append(word)
         
 
 for anagram in word_separated:
-    if len(word_separated[anagram]) > 1:
+    if len(finding_anagrams[anagram]) > 1:
            anagrams.append(word_separated[anagram])
 
 print(anagrams)           
