@@ -1,3 +1,8 @@
+# Exercise: Write code that will print out the anagrams (words that use the same letters) from a
+# paragraph of text.
+
+
+
 from collections import Counter, defaultdict
 
 paragraph = """This paragraph is going to contain anagrams.  There is an arc
